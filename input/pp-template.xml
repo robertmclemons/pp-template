@@ -549,7 +549,6 @@ Activities assoiated with the TSS.
                         </aactivity>
                     </f-element>
 		    <audit-event>
-                        <table known="mandatory"/>
                         <description>None.</description>
                         <add-info>None.</add-info>
 		    </audit-event>
